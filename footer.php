@@ -17,25 +17,25 @@
                 <ul class="footer-list" style="display: flex; flex-wrap: wrap;">
                     <div class="item-list-inner">
                         <li><a href="/service-area/davison.php">Davison</a></li>
-                        <li><a href="/service-area/goodrich.php">Goodrich</li>
-                        <li><a href="/service-area/imlay-city.php">Imlay City</li>
-                        <li><a href="/service-area/almont.php">Almont</li>
-                        <li><a href="/service-area/north-branch.php">North Branch</li>
-                        <li><a href="/service-area/metamora.php">Metamora</li>
-                        <li><a href="/service-area/cass-city.php">Cass City</li>
-                        <li><a href="/service-area/sandusky.php">Sandusky</li>
-                        <li><a href="/service-area/ortonville.php">Ortonville</li>
-                        <li><a href="/service-area/marlette.php">Marlette</li>
+                        <li><a href="/service-area/goodrich.php">Goodrich</a></li>
+                        <li><a href="/service-area/imlay-city.php">Imlay City</a></li>
+                        <li><a href="/service-area/almont.php">Almont</a></li>
+                        <li><a href="/service-area/north-branch.php">North Branch</a></li>
+                        <li><a href="/service-area/metamora.php">Metamora</a></li>
+                        <li><a href="/service-area/cass-city.php">Cass City</a></li>
+                        <li><a href="/service-area/sandusky.php">Sandusky</a></li>
+                        <li><a href="/service-area/ortonville.php">Ortonville</a></li>
+                        <li><a href="/service-area/marlette.php">Marlette</a></li>
                     </div>
                     <div>
-                        <li><a href="/service-area/lake-orion.php">Lake Orion</li>
-                        <li><a href="/service-area/vassar.php">Vassar</li>
-                        <li><a href="/service-area/oxford.php">Oxford</li>
-                        <li><a href="/service-area/grand-blanc.php">Grand Blanc</li>
-                        <li><a href="/service-area/lapeer.php">Lapeer</li>
-                        <li><a href="/service-area/caro.php">Caro</li>
-                        <li><a href="/service-area/oakland-township.php">Oakland Township</li>
-                        <li><a href="/service-area/brandon-township.php">Brandon Township</li>
+                        <li><a href="/service-area/lake-orion.php">Lake Orion</a></li>
+                        <li><a href="/service-area/vassar.php">Vassar</a></li>
+                        <li><a href="/service-area/oxford.php">Oxford</a></li>
+                        <li><a href="/service-area/grand-blanc.php">Grand Blanc</a></li>
+                        <li><a href="/service-area/lapeer.php">Lapeer</a></li>
+                        <li><a href="/service-area/caro.php">Caro</a></li>
+                        <li><a href="/service-area/oakland-township.php">Oakland Township</a></li>
+                        <li><a href="/service-area/brandon-township.php">Brandon Township</a></li>
                     </div>
                 </ul>
             </div>
