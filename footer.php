@@ -14,26 +14,29 @@
             </div>
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
                 <h3>Service Areas</h3>
-
-                <ul class="footer-list">
-                    <li><a href="/service-area/davison.php">Davison</a></li>
-                    <li><a href="/service-area/goodrich.php">Goodrich</li>
-                    <li><a href="/service-area/imlay-city.php">Imlay City</li>
-                    <li><a href="/service-area/almont.php">Almont</li>
-                    <li><a href="/service-area/north-branch.php">North Branch</li>
-                    <li><a href="/service-area/metamora.php">Metamora</li>
-                    <li><a href="/service-area/cass-city.php">Cass City</li>
-                    <li><a href="/service-area/sandusky.php">Sandusky</li>
-                    <li><a href="/service-area/ortonville.php">Ortonville</li>
-                    <li><a href="/service-area/marlette.php">Marlette</li>
-                    <li><a href="/service-area/lake-orion.php">Lake Orion</li>
-                    <li><a href="/service-area/vassar.php">Vassar</li>
-                    <li><a href="/service-area/oxford.php">Oxford</li>
-                    <li><a href="/service-area/grand-blanc.php">Grand Blanc</li>
-                    <li><a href="/service-area/lapeer.php">Lapeer</li>
-                    <li><a href="/service-area/caro.php">Caro</li>
-                    <li><a href="/service-area/oakland-township.php">Oakland Township</li>
-                    <li><a href="/service-area/brandon-township.php">Brandon Township</li>
+                <ul class="footer-list" style="display: flex; flex-wrap: wrap;">
+                    <div class="item-list-inner">
+                        <li><a href="/service-area/davison.php">Davison</a></li>
+                        <li><a href="/service-area/goodrich.php">Goodrich</li>
+                        <li><a href="/service-area/imlay-city.php">Imlay City</li>
+                        <li><a href="/service-area/almont.php">Almont</li>
+                        <li><a href="/service-area/north-branch.php">North Branch</li>
+                        <li><a href="/service-area/metamora.php">Metamora</li>
+                        <li><a href="/service-area/cass-city.php">Cass City</li>
+                        <li><a href="/service-area/sandusky.php">Sandusky</li>
+                        <li><a href="/service-area/ortonville.php">Ortonville</li>
+                        <li><a href="/service-area/marlette.php">Marlette</li>
+                    </div>
+                    <div>
+                        <li><a href="/service-area/lake-orion.php">Lake Orion</li>
+                        <li><a href="/service-area/vassar.php">Vassar</li>
+                        <li><a href="/service-area/oxford.php">Oxford</li>
+                        <li><a href="/service-area/grand-blanc.php">Grand Blanc</li>
+                        <li><a href="/service-area/lapeer.php">Lapeer</li>
+                        <li><a href="/service-area/caro.php">Caro</li>
+                        <li><a href="/service-area/oakland-township.php">Oakland Township</li>
+                        <li><a href="/service-area/brandon-township.php">Brandon Township</li>
+                    </div>
                 </ul>
             </div>
             <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
@@ -57,7 +60,7 @@
         <div class="container">
 
             <div class="text-center col-xs-12 footer-item copyrights text-muted">
-                <p>All Rights Reserved. Copyright 911 Mechanical</p>
+                <p>All Rights Reserved. Copyright Jack's Heating and Cooling</p>
             </div>
 
         </div>

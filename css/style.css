@@ -3124,3 +3124,10 @@ strong {
 .privacy-page h3 {
   font-weight: 600;
 }
+
+@media (min-width: 320px){
+  .item-list-inner {
+      margin-right: 30px;
+  }
+
+}
