@@ -5,7 +5,7 @@
             <div class="col-md-6 col-sm-12 col-xs-12 footer-item">
 
                 <h3>About Us</h3>
-                <p><img src="<?php echo $base_url ?>/img/premier dealer.jpg" style="width:70%"></p>
+                <!-- <p><img src="<?php echo $base_url ?>/img/premier dealer.jpg" style="width:70%"></p> -->
                 <p class="light">At Jack's Heating and Cooling, we aim to exceed client expectations by employing the
                     best customer service people and holding ourselves to only the highest level of customer care. Our
                     friendly customer service people will answer all your questions, scheduling service, financing and
