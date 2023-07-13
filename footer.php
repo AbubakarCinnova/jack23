@@ -2,7 +2,7 @@
 
     <footer class="full-row main-footer text-white">
         <div class="container">
-            <div class="col-md-6 col-sm-12 col-xs-12 footer-item">
+            <div class="col-md-4 col-sm-12 col-xs-12 footer-item">
 
                 <h3>About Us</h3>
                 <!-- <p><img src="<?php echo $base_url ?>/img/premier dealer.jpg" style="width:70%"></p> -->
@@ -12,28 +12,31 @@
                     guide you through the install and rebate process.</p>
 
             </div>
-            <!--  <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
+            <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
                 <h3>Service Areas</h3>
 
                 <ul class="footer-list">
-                    <li><a
-                            href="<?php echo $base_url ?>/service-area/Heath-Ohio-heating-and-air-conditioning-repair.php">Heath</a>
-                    </li>
-                    <li><a
-                            href="<?php echo $base_url ?>/service-area/Newark-Ohio-heating-and-air-conditioning-repair.php">Newark</a>
-                    </li>
-                    <li><a
-                            href="<?php echo $base_url ?>/service-area/Granville-heating-and-air-conditioning-repair.php">Granville</a>
-                    </li>
-                    <li><a
-                            href="<?php echo $base_url ?>/service-area/Hebron-Ohio-heating-and-air-conditioning-repair.php">Hebron</a>
-                    </li>
-                    <li><a
-                            href="<?php echo $base_url ?>/service-area/Buckeye-Lake-heating-and-air-conditioning-repair.php">Buckeye
-                            Lake</a> </li>
+                    <li><a href="/service-area/davison.php">Davison</a></li>
+                    <li><a href="/service-area/goodrich.php">Goodrich</li>
+                    <li><a href="/service-area/imlay-city.php">Imlay City</li>
+                    <li><a href="/service-area/almont.php">Almont</li>
+                    <li><a href="/service-area/north-branch.php">North Branch</li>
+                    <li><a href="/service-area/metamora.php">Metamora</li>
+                    <li><a href="/service-area/cass-city.php">Cass City</li>
+                    <li><a href="/service-area/sandusky.php">Sandusky</li>
+                    <li><a href="/service-area/ortonville.php">Ortonville</li>
+                    <li><a href="/service-area/marlette.php">Marlette</li>
+                    <li><a href="/service-area/lake-orion.php">Lake Orion</li>
+                    <li><a href="/service-area/vassar.php">Vassar</li>
+                    <li><a href="/service-area/oxford.php">Oxford</li>
+                    <li><a href="/service-area/grand-blanc.php">Grand Blanc</li>
+                    <li><a href="/service-area/lapeer.php">Lapeer</li>
+                    <li><a href="/service-area/caro.php">Caro</li>
+                    <li><a href="/service-area/oakland-township.php">Oakland Township</li>
+                    <li><a href="/service-area/brandon-township.php">Brandon Township</li>
                 </ul>
-            </div> -->
-            <div class="col-md-6 col-sm-12 col-xs-12 footer-item">
+            </div>
+            <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
                 <p><strong>24/7 Phone:</strong><br>(888) 508-4911</p>
                 <p><strong>Address:</strong><br>911 Mechanical <br>
