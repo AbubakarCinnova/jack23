@@ -10,8 +10,8 @@
 
             <div class="col-md-4 ">
                 <h3>Call for appointment</h3>
-                <a href="callto:+18885084911">
-                    <h2>(888) 508-4911</h2>
+                <a href="tel:18887975225">
+                    <h2>1-888-797-JACK</h2>
                 </a>
             </div>
 
@@ -111,9 +111,7 @@
                 <li><a href="<?php echo $base_url ?>/service-area.php">Service Area</a></li>
 
                 <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/premier-hvac.php">Premier HVAC</a></li>
-                    </ul>
+
                 </li>
 
                 <li><a href="<?php echo $base_url ?>/specials.php">Specials</a></li>
