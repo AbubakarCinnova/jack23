@@ -2,7 +2,7 @@
 
     <footer class="full-row main-footer text-white">
         <div class="container">
-            <div class="col-md-4 col-sm-12 col-xs-12 footer-item">
+            <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
 
                 <h3>About Us</h3>
                 <!-- <p><img src="<?php echo $base_url ?>/img/premier dealer.jpg" style="width:70%"></p> -->
@@ -39,7 +39,7 @@
                     </div>
                 </ul>
             </div>
-            <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
+            <div class="col-md-4 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
                 <p><strong>24/7 Phone:</strong><br>(888) 508-4911</p>
                 <p><strong>Address:</strong><br>911 Mechanical <br>

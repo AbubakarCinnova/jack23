@@ -3132,6 +3132,6 @@ strong {
 
 @media (max-width: 991px) {
   .footer-list {
-    justify-content: center;
+    justify-content: center !important;
   }
 }
