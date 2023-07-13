@@ -41,12 +41,14 @@
             </div>
             <div class="col-md-4 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
-                <p><strong>24/7 Phone:</strong><br>(888) 508-4911</p>
-                <p><strong>Address:</strong><br>911 Mechanical <br>
-                    51620 Milano Dr STE B, <br>
-                    Macomb, MI 48042</p>
-
+                <p><strong>LAPEER OFFICE</strong> <br>
+                    Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
+                    (810) 664-8451</p>
+                <p><strong>CARO OFFICE</strong> <br>
+                    Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
+                    (989) 672-8451</p>
                 <p><a href="<?php echo $base_url ?>/privacy.php">Terms of Service and Privacy Policy</a></p>
+                <p><a href="https://www.facebook.com/888797jack/" class="facebook-icon current">facebook </a></p>
 
             </div>
 

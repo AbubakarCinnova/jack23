@@ -3135,3 +3135,12 @@ strong {
     justify-content: center !important;
   }
 }
+
+.facebook-icon {
+  background: url(../images/fb.png) 0 0 no-repeat transparent;
+  margin-right: 12px;
+  font-size: 0 !important;
+  display: block;
+  height: 24px;
+  width: 24px;
+}
