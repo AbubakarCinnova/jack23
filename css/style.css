@@ -1925,6 +1925,7 @@ a:hover {
 .navbar {
   background-color: #d51c1c;
   border-radius: 0;
+  border: 0;
 }
 
 .navbar-nav > li > a {
@@ -3143,4 +3144,18 @@ strong {
   display: block !important;
   height: 24px !important;
   width: 24px !important;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+  }
+
+  .navbar-nav li:hover > a {
+    background-color: black !important;
+    color: white !important;
+  }
+  .img-about {
+    width: 37% !important;
+  }
 }
