@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical| Furnaces </title>
+<title>Furnaces | Jack Heating and Cooling </title>
 <meta name="description"
     content="You're researching online or have heard talk about variable speed furnaces, single-stage, two-stage, modulating gas furnaces, and AFUE ratings. Let us help you by explaining some of those furnace systems and related terms. " />
 <?php include_once('menu.php') ?>
@@ -205,7 +205,8 @@
 
                                 <br>
 
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Quote</a>
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
+                                    Quote</a>
                             </div>
 
 
