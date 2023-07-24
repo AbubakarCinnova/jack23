@@ -63,7 +63,7 @@
 
                                     <li>Cooling Your Home: The cooled air or water is distributed through your home,
                                         removing heat and providing a comfortable indoor temperature.</li>
-                                </ul>
+                                </ul> <br>
 
                                 <p>The efficiency of geothermal systems stems from their ability to transfer heat rather
                                     than generate it. By utilizing the relatively stable temperature of the Earth,
@@ -89,7 +89,7 @@
                                         ground. Suitable for limited land areas or challenging soil conditions, often
                                         used in
                                         commercial installations.</li>
-                                </ul>
+                                </ul> <br>
 
                                 <p>Both systems utilize ground temperature for heating and cooling, working with a
                                     geothermal heat pump to exchange heat with the building. The choice depends on
