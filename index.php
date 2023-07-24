@@ -14,17 +14,18 @@
 
                 <div class="item active">
                     <a href="<?php echo $base_url ?>/contact-us.php"><img
-                            src="<?php echo $base_url; ?>/img/Inloeswedoit all.png" alt="first slide" width="100%"></a>
+                            src="<?php echo $base_url; ?>/img/jacks_tax credit geothermal-1 (1).png" alt="first slide"
+                            width="100%"></a>
 
                 </div>
 
 
-                <div class="item">
+                <!--  <div class="item">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
                             src="<?php echo $base_url; ?>/img/Inloeswedoit all.png" alt="second slide" width="100%">
                     </a>
                 </div>
-
+ -->
                 <!--   <div class="item">
           <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/b2.png" alt="second slide" width="100%">
           </a>
