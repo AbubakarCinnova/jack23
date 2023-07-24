@@ -14,7 +14,7 @@
                         <div class="row">
                             <div class="col-sm-12">
 
-                                <div class="thermostats-banner"><img
+                                <div class="thermostats-banner" style="text-align:center;"><img
                                         src="<?php echo $base_url; ?>/img/smart thermostat michigan.jpg"
                                         alt="Smart thermostats"></div>
 
