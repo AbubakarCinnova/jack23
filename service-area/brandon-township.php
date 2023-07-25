@@ -26,7 +26,7 @@
                     <div class="  content-area">
                         <div class="row">
                             <div class="col-lg-12">
-                                <h1>Discover Unrivaled Heating and Cooling Services in Brandon Township, Michigan</h1>
+                                <h2>Discover Unrivaled Heating and Cooling Services in Brandon Township, Michigan</h2>
                                 <p>In the realm of dependable and top-notch heating and cooling services in Brandon
                                     Township, Michigan, none compare to the excellence offered by Jacks Heating and
                                     Cooling. Our unmatched expertise and unwavering dedication to ensuring customer
@@ -47,7 +47,7 @@
                                     fast and friendly emergency services when you need them most. Don't forget to
                                     schedule regular furnace maintenance with us to ensure optimal performance and
                                     efficiency, saving you money on energy bills in the long run.</p>
-                                <h3>Brandon Township, Michigan Heating Services</h3>
+                                <h2>Brandon Township, Michigan Heating Services</h2>
                                 <ul>
                                     <li>Furnace Repair</li>
                                     <li>Heating Repair</li>
@@ -82,7 +82,7 @@
                                     available to guarantee your comfort is never compromised. We pride ourselves on
                                     working with all major brands of home cooling equipment, ensuring you receive
                                     exceptional service and performance every time.</p>
-                                <h3>Brandon Township, Michigan Air Conditioning Services</h3>
+                                <h2>Brandon Township, Michigan Air Conditioning Services</h2>
                                 <ul>
                                     <li>Air Conditioning Repairs</li>
                                     <li>Ductless Mini Splits</li>
