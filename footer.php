@@ -38,6 +38,8 @@
                         </li>
                         <li><a href="<?php echo $base_url ?>/service-area/brandon-township.php">Brandon Township</a>
                         </li>
+                        <li><a href="<?php echo $base_url ?>/service-area/frankenmuth.php">Frankenmuth</a>
+                        </li>
                     </div>
                 </ul>
             </div>
