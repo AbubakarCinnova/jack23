@@ -19,13 +19,13 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <img src="<?php echo $base_url ?>/img/generatorbanner.jpg" width="100%">
-                                <h3>Automatic Stand-by Generators for Homes and Businesses </h3>
+                                <h2>Automatic Stand-by Generators for Homes and Businesses </h2>
                                 <p>Having a reliable automatic stand-by generator is imperative to ensure your home
                                     or business has 24/7 protection from power disruptions. After all, nobody wants
                                     to deal with the hassle of being without the lights, air conditioning, heating
                                     and other appliances in your home during a power outage.</p>
 
-                                <h3>Have Peace Of Mind When The Power Goes out</h3>
+                                <h2>Have Peace Of Mind When The Power Goes out</h2>
                                 <p>Today's generators are quiet and can power your whole home or business. Whole
                                     house generators keep the lights, security system, sump pump, television,
                                     healthcare equipment, heating and cooling system, even the fridge working during
