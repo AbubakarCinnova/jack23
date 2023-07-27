@@ -80,7 +80,6 @@
                         <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
                         <li><a href="<?php echo $base_url ?>/furnaces.php">Furnaces</a></li>
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
-                        <li><a href="<?php echo $base_url ?>/radiant-heating.php"> Radiant Heating </a></li>
                         <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
 
                     </ul>
@@ -95,7 +94,6 @@
 
                 <li><a class="dropdown-toggle">Services</a>
                     <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/installation-guide.php">Install Guide</a></li>
                         <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
                         <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
                         <li><a href="<?php echo $base_url ?>/repair-services.php">Repair Services</a></li>
@@ -105,9 +103,9 @@
                 <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
 
                 <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
-                    <ul class="dropdown-menu">
+                    <!--    <ul class="dropdown-menu">
                         <li><a href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning</a></li>
-                    </ul>
+                    </ul> -->
                 </li>
 
                 <li><a href="<?php echo $base_url ?>/service-area.php">Service Area</a></li>
