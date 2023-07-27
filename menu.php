@@ -95,6 +95,7 @@
                 <li><a class="dropdown-toggle">Services</a>
                     <ul class="dropdown-menu">
                         <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
+                        <li><a href="<?php echo $base_url ?>/tin-man-club.php">Annual Tin Man Service Club</a></li>
                         <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
                         <li><a href="<?php echo $base_url ?>/repair-services.php">Repair Services</a></li>
                     </ul>
