@@ -25,7 +25,7 @@
                                 <br>
                                 <strong>We provide professional services for both traditional tanked water heaters and
                                     tankless water heaters in the
-                                    Thumb area of Michigan.</strong>
+                                    Thumb area of Michigan.</strong> <br>
 
                                 <p>When it comes to your water heater, it's essential to rely on an expert to ensure
                                     optimal performance and
@@ -81,7 +81,7 @@
 
                                     <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
                                         Quote</a>
-                                    <br>
+                                    <br><br>
 
                                     <p><strong>When it comes to getting the best water heater equipment or service, the
                                             only
