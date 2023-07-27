@@ -81,6 +81,7 @@
 
                                     <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
                                         Quote</a>
+                                    <br>
 
                                     <p><strong>When it comes to getting the best water heater equipment or service, the
                                             only
