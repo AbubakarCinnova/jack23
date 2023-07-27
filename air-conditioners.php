@@ -105,7 +105,7 @@
                                     With Jack's Heating and Cooling, you can expect top-notch solutions tailored to your
                                     comfort and satisfaction.</p>
 
-                                <h2>Our Most Popular Air Conditioners</h2>
+                                <h1>Our Most Popular Air Conditioners</h1>
 
                                 <h2>Lennox Model SL28XCV</h2>
                                 <ul>
@@ -170,6 +170,7 @@
                                         components. A 10-Year Extended Limited Warranty is available with product
                                         registration.</li>
                                 </ul>
+                                <br>
 
                                 <p><strong>If you're looking for the best heating and cooling equipment or service in
                                         the Thumb area of Michigan, the only name you need to know is Jack's Heating and
