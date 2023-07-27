@@ -20,7 +20,7 @@
 
 
 
-                                <h1>What is a Ductless Mini-Split System?</h1>
+                                <h2>What is a Ductless Mini-Split System?</h2>
                                 <p>A ductless mini-split system is a type of heating and cooling system that does not
                                     require the use of ducts. It uses
                                     a heat pump to efficiently deliver warm or cool air directly into various rooms in a
