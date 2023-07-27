@@ -11,7 +11,7 @@
             <div class="col-md-4 ">
                 <h3>Call for appointment</h3>
                 <a href="tel:18887975225">
-                    <h2>1-888-797-JACK</h2>
+                    <h2>1-888-797-5225</h2>
                 </a>
             </div>
 
