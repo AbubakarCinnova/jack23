@@ -26,6 +26,7 @@
                         <li><a href="<?php echo $base_url ?>/sandusky.php">Sandusky</a></li>
                         <li><a href="<?php echo $base_url ?>/ortonville.php">Ortonville</a></li>
                         <li><a href="<?php echo $base_url ?>/marlette.php">Marlette</a></li>
+                        <li><a href="<?php echo $base_url ?>/richville.php">Richville</a></li>
                     </div>
                     <div>
                         <li><a href="<?php echo $base_url ?>/lake-orion.php">Lake Orion</a></li>
