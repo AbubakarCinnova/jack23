@@ -8,7 +8,7 @@
 
 <?php
                                          
- define('MAIL_TO','website@911mechanical.com');
+ define('MAIL_TO','C.Hill@888797jack.com,INFO@888797JACK.COM,amahboob@cinnova.com');
  $errors = array();
  
  $name = '';
@@ -261,19 +261,8 @@
              <div class="col-sm-8 col-xs-12 margin-bottom-sm">               
        <p><strong>CONTACT OUR TEAM TODAY!</strong></p>
        <br>
-       <p>
-        <strong>Contact Us</strong> <br>
-        <strong>24/7 Phone:</strong> <br>
-        (888) 508-4911
-       </p>
-  
-       <p>
-       <strong>Address:</strong> <br>
-        911 Mechanical <br>
-        51620 Milano Dr. STE B, <br>
-        Macomb, MI 48042 <br>
-       </p>
-       <p><strong>If after normal business hours, emails won't be answered until the next business day, if you need emergency service, please  Call (888) 508-4911</strong></p>
+      
+       <p><strong>If, after normal business hours, emails won't be answered until the next business day, if you need emergency service, please Call 1 888 797 5225</strong></p>
         <br>
               <form action="<?php echo $base_url; ?>/contact-us.php" method="POST" class="form-horizontal">
                <?php
