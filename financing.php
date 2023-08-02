@@ -20,20 +20,20 @@
                                 <h1>Financing</h1>
 
                                 <img src="<?php echo $base_url ?>/img/authorized_contractor-1 (2).png"
-                                    alt="Financing" class="full-width-img">
+                                    alt="Financing" width="300">
 
-                                <br>
+                                <br><br>
 
                                 <p>A new home heating and cooling system is one of the most important investments you'll
                                     make, one that can deliver energy and cost savings for many years to come. You don't
                                     have to let a small budget keep you from getting the most efficient solution for
                                     your household. That's why we offer flexible financing options.
                                 </p>
-                                <br>
+                                <br><br>
                                 <img src="<?php echo $base_url ?>/img/credit (1).jpeg"
-                                    alt="---Michigan saves---" class="full-width-img">
+                                    alt="---Michigan saves---" width="300">
 
-                                <br>
+                                <br><br>
 
                                 <p> Financing is subject to credit approval.</p>
                                 <p><strong>Call us today to find out other financing options we have available for you.</strong></p>
