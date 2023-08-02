@@ -21,12 +21,12 @@
                             <div class="col-lg-12">
 
                                 <h2>Discover Unrivaled Heating and Cooling Services in Akron, Michigan</h2>
-                                <p>In the realm of dependable and top-notch heating and cooling services in Richville,
+                                <p>In the realm of dependable and top-notch heating and cooling services in Akron,
                                     Michigan, none compare to
                                     the excellence offered by Jack's Heating and Cooling. Our unmatched expertise and
                                     unwavering dedication to
                                     ensuring customer satisfaction have made us the go-to choice for homeowners across
-                                    the Richville area.</p>
+                                    the Akron area.</p>
 
                                 <h2>Expert HVAC Solutions for Every Home</h2>
                                 <p>At Jack's Heating and Cooling, we understand that each home is unique, and that's why
@@ -42,7 +42,7 @@
                                 <h2>Reliable Furnace Repairs and Maintenance</h2>
                                 <p>When the winter chill sets in, you can rely on Jack's Heating and Cooling for prompt
                                     and efficient furnace
-                                    repairs in Richville. Our certified technicians have the expertise to diagnose and
+                                    repairs in Akron. Our certified technicians have the expertise to diagnose and
                                     resolve any furnace issue,
                                     whether it's a minor repair or a complete system replacement. We prioritize your
                                     comfort and safety, offering
@@ -52,7 +52,7 @@
                                     on energy bills in the long
                                     run.</p>
 
-                                <h2>Richville, Michigan Heating Services</h2>
+                                <h2>Akron, Michigan Heating Services</h2>
                                 <ul>
                                     <li>Furnace Repair</li>
                                     <li>Heating Repair</li>
@@ -78,7 +78,7 @@
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Service</a>
                                 <br>
                                 <h2>Experience Unmatched Air Conditioning Services</h2>
-                                <p>Embrace cool comfort even during the hottest Richville summers with our exceptional
+                                <p>Embrace cool comfort even during the hottest Akron summers with our exceptional
                                     air conditioning services.
                                     Whether you require a brand-new air conditioning system or central air repairs,
                                     trust Jack's Heating and Cooling
@@ -92,7 +92,7 @@
                                     exceptional service and
                                     performance every time.</p>
 
-                                <h2>Richville, Michigan Air Conditioning Services</h2>
+                                <h2>Akron, Michigan Air Conditioning Services</h2>
                                 <ul>
                                     <li>Air Conditioning Repairs</li>
                                     <li>Ductless Mini Splits</li>
@@ -120,7 +120,7 @@
                                     energy savings and increased property value by investing in an energy-efficient
                                     system.</p>
 
-                                <h2>Your Trusted Heating and Cooling Partner in Richville, Michigan</h2>
+                                <h2>Your Trusted Heating and Cooling Partner in Akron, Michigan</h2>
                                 <p>If you're considering upgrading your HVAC system, we're here for you every step of
                                     the way. Benefit from our
                                     complimentary and no-obligation consultation, designed to find the perfect solution
@@ -130,7 +130,7 @@
                                     you choose the ideal system that guarantees ultimate comfort and energy efficiency.
                                 </p>
 
-                                <p>Become a part of our delighted customer community in the Richville area, where we
+                                <p>Become a part of our delighted customer community in the Akron area, where we
                                     take pride in our long list
                                     of completely satisfied clients. Contact Jack's Heating and Cooling today and
                                     experience firsthand why we have
