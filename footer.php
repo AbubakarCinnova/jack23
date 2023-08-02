@@ -38,8 +38,8 @@
                         </li>
                         <li><a href="<?php echo $base_url ?>/brandon-township.php">Brandon Township</a>
                         </li>
-                        <li><a href="<?php echo $base_url ?>/frankenmuth.php">Frankenmuth</a>
-                        </li>
+                        <li><a href="<?php echo $base_url ?>/frankenmuth.php">Frankenmuth</a></li>
+                        <li><a href="<?php echo $base_url ?>/millington.php">Millington</a></li>
                     </div>
                 </ul>
             </div>
