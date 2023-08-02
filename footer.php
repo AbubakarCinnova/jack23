@@ -43,6 +43,7 @@
                         <li><a href="<?php echo $base_url ?>/frankenmuth.php">Frankenmuth</a></li>
                         <li><a href="<?php echo $base_url ?>/millington.php">Millington</a></li>
                         <li><a href="<?php echo $base_url ?>/fairgrove.php">Fairgrove</a></li>
+                        <li><a href="<?php echo $base_url ?>/gagetown.php">Gagetown</a></li>
                     </div>
                 </ul>
             </div>

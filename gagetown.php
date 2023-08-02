@@ -1,7 +1,7 @@
 <?php include_once('header.php') ?>
-<title>Furnace Repair Akron, MI | Air Conditioning Akron, MI | Heating, &amp; Cooling Akron, MI </title>
+<title>Furnace Repair Gagetown, MI | Air Conditioning Gagetown, MI | Heating, &amp; Cooling Gagetown, MI </title>
 
-<meta name="description" content=" When it comes to reliable and professional heating and cooling services in Akron, Michigan Jacks Heating and Cooling stands out from the competition." />
+<meta name="description" content=" When it comes to reliable and professional heating and cooling services in Gagetown, Michigan Jacks Heating and Cooling stands out from the competition." />
 <meta name="rating" content="general" />
 <meta name="revisit-after" content="3 days" />
 <meta name="robots" content="index, follow" />
@@ -20,7 +20,7 @@
                         <div class="row">
                             <div class="col-lg-12">
 
-                                <h2>Discover Unrivaled Heating and Cooling Services in Akron, Michigan</h2>
+                                <h2>Discover Unrivaled Heating and Cooling Services in Gagetown, Michigan</h2>
                                 <p>In the realm of dependable and top-notch heating and cooling services in Richville,
                                     Michigan, none compare to
                                     the excellence offered by Jack's Heating and Cooling. Our unmatched expertise and
