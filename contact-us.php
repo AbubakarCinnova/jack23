@@ -259,7 +259,7 @@
     <div class="container">   
         <div class="margin-bottom-lg margin-top-lg clearfix" style="padding-top:20px; padding-bottom:20px;">
              <div class="col-sm-8 col-xs-12 margin-bottom-sm">               
-       <p><strong>CONTACT OUR TEAM TODAY!</strong></p>
+    <h1>Contact Us</h1>
        <br>
       
        <p><strong>If, after normal business hours, emails won't be answered until the next business day, if you need emergency service, please Call 1 888 797 5225</strong></p>
