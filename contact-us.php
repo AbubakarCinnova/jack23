@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<title>911 Mechanical | Contact Us</title>
+<title>Jack's Heating and Cooling | Contact Us</title>
 
 </head>
 <?php include('menu.php'); ?>
@@ -174,23 +174,23 @@
  // 
  if(count($errors) === 0){
  ?>
- <div class="alert alert-success">
- <p>Thank you! your message has been sent.</p>
- </div> 
- <?php 
+<div class="alert alert-success">
+    <p>Thank you! your message has been sent.</p>
+</div>
+<?php 
  }else{
  ?>
- <div class="alert alert-block alert-danger fade in">
- <p>The following error(s) occurred:</p>
- <ul>
- <?php 
+<div class="alert alert-block alert-danger fade in">
+    <p>The following error(s) occurred:</p>
+    <ul>
+        <?php 
  foreach ($errors as $error) {
  echo "<li>$error</li>";
  }
  ?>
- </ul>
- </div>
- <?php
+    </ul>
+</div>
+<?php
  } 
  }
  
@@ -253,59 +253,48 @@
  // start form processing
  start_form();
  
-?> 
-    <div class="clearfix border-black"></div>
-   
-    <div class="container">   
-        <div class="margin-bottom-lg margin-top-lg clearfix" style="padding-top:20px; padding-bottom:20px;">
-             <div class="col-sm-8 col-xs-12 margin-bottom-sm">               
-    <h1>Contact Us</h1>
+?>
+<div class="clearfix border-black"></div>
 
-      
-       <p><strong>If, after normal business hours, emails won't be answered until the next business day, if you need emergency service, please Call 1 888 797 5225</strong></p>
-        <br>
-              <form action="<?php echo $base_url; ?>/contact-us.php" method="POST" class="form-horizontal">
-               <?php
+<div class="container">
+    <div class="margin-bottom-lg margin-top-lg clearfix" style="padding-top:20px; padding-bottom:20px;">
+        <div class="col-sm-8 col-xs-12 margin-bottom-sm">
+            <h1>Contact Us</h1>
+
+
+            <p><strong>If, after normal business hours, emails won't be answered until the next business day, if you
+                    need emergency service, please Call 1 888 797 5225</strong></p>
+            <br>
+            <form action="<?php echo $base_url; ?>/contact-us.php" method="POST" class="form-horizontal">
+                <?php
              display_message($errors);
              ?>
-             <div class="control-group">
-                 <label for="name" class="control-label">Name:</label> 
-                 <div class="controls">
-                 <input type="text"  
-                    name="name" 
-                    id="name"
-                    value="<?php display_value('name')?>" 
-                    class="input-xlarge form-control" required 
-                    placeholder="Name"/>
-                 </div>
-             </div>
-             <br>
-             <div class="control-group">
-                 <label for="tel" class="control-label">Phone:</label> 
-                 <div class="controls">
-                 <input type="tel"  
-                    name="tel" 
-                    id="tel"
-                    value="<?php display_value('tel')?>" 
-                    class="input-xlarge form-control" required 
-                    placeholder="Phone"/>
-                 </div>
-             </div>
-             <br>
-             <div class="control-group">
-             <label for="email" class="control-label">Email:</label>
-             <div class="controls">
-             <input type="email" required
-                name="email"
-                id="email" 
-                value="<?php display_value('email')?>"
-                class="input-xlarge form-control" 
-                placeholder="Email"/>
-             </div> 
-             </div>
-             <br>
-             
-                    <!--       <div class="control-group">
+                <div class="control-group">
+                    <label for="name" class="control-label">Name:</label>
+                    <div class="controls">
+                        <input type="text" name="name" id="name" value="<?php display_value('name')?>"
+                            class="input-xlarge form-control" required placeholder="Name" />
+                    </div>
+                </div>
+                <br>
+                <div class="control-group">
+                    <label for="tel" class="control-label">Phone:</label>
+                    <div class="controls">
+                        <input type="tel" name="tel" id="tel" value="<?php display_value('tel')?>"
+                            class="input-xlarge form-control" required placeholder="Phone" />
+                    </div>
+                </div>
+                <br>
+                <div class="control-group">
+                    <label for="email" class="control-label">Email:</label>
+                    <div class="controls">
+                        <input type="email" required name="email" id="email" value="<?php display_value('email')?>"
+                            class="input-xlarge form-control" placeholder="Email" />
+                    </div>
+                </div>
+                <br>
+
+                <!--       <div class="control-group">
              <label for="company" class="control-label">Company:</label>
              <div class="controls">
              <input type="text"
@@ -317,80 +306,65 @@
              </div> 
              </div>
              <br> -->
-             
-                                       <div class="control-group">
-             <label for="Address" class="control-label">Address:</label>
-             <div class="controls">
-             <input type="text" required
-                    name="address"
-                    id="address" 
-                    value="<?php display_value('address')?>" 
-                    class="input-xlarge form-control" 
-                    placeholder="Address" />
-             </div> 
-             </div>
 
-             <br>
-             
+                <div class="control-group">
+                    <label for="Address" class="control-label">Address:</label>
+                    <div class="controls">
+                        <input type="text" required name="address" id="address" value="<?php display_value('address')?>"
+                            class="input-xlarge form-control" placeholder="Address" />
+                    </div>
+                </div>
 
-             <div class="control-group">
-             <label for="city" class="control-label">City:</label>
-             <div class="controls">
-             <input type="text" required
-                    name="city"
-                    id="city" 
-                    value="<?php display_value('city')?>" 
-                    class="input-xlarge form-control" 
-                    placeholder="City" />
-             </div> 
-             </div>
+                <br>
 
-             <br>
-             
-                                       <div class="control-group">
-             <label for="state" class="control-label">State:</label>
-             <div class="controls">
-             <input type="text" required
-                    name="state"
-                    id="state" 
-                    value="<?php display_value('state')?>" 
-                    class="input-xlarge form-control" 
-                    placeholder="State" />
-             </div> 
-             </div>
-             
-             <br>
-             
-             <div class="control-group">
-             <label for="message" class="control-label">Message:</label>
-             <div class="controls">
-             <textarea rows="7" 
-                       cols="25" 
-                       name="message" 
-                       id="message"
-                       class="input-xlarge form-control"><?php display_value('message')?></textarea>
-             </div>
-             </div>
 
-             <br>
+                <div class="control-group">
+                    <label for="city" class="control-label">City:</label>
+                    <div class="controls">
+                        <input type="text" required name="city" id="city" value="<?php display_value('city')?>"
+                            class="input-xlarge form-control" placeholder="City" />
+                    </div>
+                </div>
 
-          <!--    <div class="control-group">
+                <br>
+
+                <div class="control-group">
+                    <label for="state" class="control-label">State:</label>
+                    <div class="controls">
+                        <input type="text" required name="state" id="state" value="<?php display_value('state')?>"
+                            class="input-xlarge form-control" placeholder="State" />
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="control-group">
+                    <label for="message" class="control-label">Message:</label>
+                    <div class="controls">
+                        <textarea rows="7" cols="25" name="message" id="message"
+                            class="input-xlarge form-control"><?php display_value('message')?></textarea>
+                    </div>
+                </div>
+
+                <br>
+
+                <!--    <div class="control-group">
                      <label for="captcha" class="control-label">&nbsp;</label>
                          <div class="controls">
                                   <div class="g-recaptcha" data-sitekey="6Ld3SeckAAAAAFP1SADB_cUQm7mU8vJ4QWl4LIcf"></div>
                          </div>
                  </div>  
                  <br> -->
-             
-             <div class="control-group"> 
-             <div class="controls" style="margin-top: 10px;">
-             <input type="submit" name="submit" value="Send" class="btn btn-warning"> 
-              </div>
-             </div>
-            
-             </form>
+
+                <div class="control-group">
+                    <div class="controls" style="margin-top: 10px;">
+                        <input type="submit" name="submit" value="Send" class="btn btn-warning">
+                    </div>
+                </div>
+
+            </form>
         </div>
-        </div>
-    </div>     
+    </div>
+</div>
 <br>
 <?php include('footer.php'); ?>
