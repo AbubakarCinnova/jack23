@@ -120,7 +120,7 @@
 
 
                                     <h2>Whole House Humidifiers</h2>
-                                    <img src="v/img/lennox humidfier.png" width="25%"><br>
+                                    <img src="<?php echo $base_url ?>/img/lennox humidfier.png" width="25%"><br>
                                     <p>By adding humidity to heated, dry air, the air feels warmer, helps reduce dry
                                         skin and static shock plus you can lower the thermostat and still be
                                         comfortable, while saving money. The Healthy Climate Power Humidifier attaches
