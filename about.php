@@ -19,10 +19,10 @@
 
 
                                 <h2>Caleb Hill President and Tim Hill Owner Jack's Heating and Cooling</h2>
-                                <br><br>
+
                                 <img src="<?php echo $base_url ?>/img/jacks about (1).jpeg" alt="Financing"
-                                    style="width:80%;">
-                                <br><br>
+                                    style="float: right;width: 45%; padding:5px 15px;">
+
                                 <p>Welcome to Jack’s Heating and Cooling, where our focus, since 1947, has been on
                                     providing exceptional heating, ventilation, and air-conditioning solutions tailored
                                     to
