@@ -171,7 +171,7 @@
                                                 Brochure</a></li>
                                     </ul><br><br>
 
-                                    <a href="request-estimate.php" target="_self" class="btn btn-warning">Request Quote
+                                    <a href="contact-us.php" target="_self" class="btn btn-warning">Request Quote
                                     </a><br>
                                     <br>
 
