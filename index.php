@@ -26,10 +26,12 @@
                     </a>
                 </div>
 
-                <!--   <div class="item">
-          <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/b2.png" alt="second slide" width="100%">
-          </a>
-        </div> -->
+                <div class="item">
+                    <a href="<?php echo $base_url ?>/contact-us.php"> <img
+                            src="<?php echo $base_url; ?>/img/jacks wedoitall-1 (1) (2) (1).png" alt="third slide"
+                            width="100%">
+                    </a>
+                </div>
 
 
 
