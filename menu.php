@@ -80,6 +80,7 @@
                         <li><a href="<?php echo $base_url ?>/furnaces.php">Furnaces</a></li>
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
                         <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
+                        <li><a href="<?php echo $base_url ?>/boilers.php"> Boilers </a></li>
 
                     </ul>
                 </li>
@@ -94,7 +95,7 @@
                 <li><a class="dropdown-toggle">Services</a>
                     <ul class="dropdown-menu">
                         <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
-                        
+
                         <li><a href="<?php echo $base_url ?>/tin-man-club.php">Annual Tin Man Service Club</a></li>
                         <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
                         <li><a href="<?php echo $base_url ?>/repair-services.php">Repair Services</a></li>
@@ -109,7 +110,7 @@
                     </ul> -->
                 </li>
 
-              
+
 
                 <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
 
