@@ -11,8 +11,8 @@
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
                     <a href="<?php echo $base_url ?>/contact-us.php"><img
-                            src="<?php echo $base_url; ?>/img/jacks_tax credit geothermal-1 (1).png" alt="first slide"
-                            width="100%"></a>
+                            src="<?php echo $base_url; ?>/img/33bfdf3a-7c8f-4b8b-b5c4-27eaf15610aa.png"
+                            alt="first slide" width="100%"></a>
                 </div>
                 <div class="item">
                     <a href="<?php echo $base_url ?>/heat-pumps.php"> <img
