@@ -9,34 +9,24 @@
 
     <main>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="7500">
-
             <div class="carousel-inner" role="listbox">
-
                 <div class="item active">
                     <a href="<?php echo $base_url ?>/contact-us.php"><img
                             src="<?php echo $base_url; ?>/img/jacks_tax credit geothermal-1 (1).png" alt="first slide"
                             width="100%"></a>
-
                 </div>
-
-
                 <div class="item">
                     <a href="<?php echo $base_url ?>/heat-pumps.php"> <img
                             src="<?php echo $base_url; ?>/img/Hybrid Heat (3).png" alt="second slide" width="100%">
                     </a>
                 </div>
-
                 <div class="item">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
                             src="<?php echo $base_url; ?>/img/jacks wedoitall-1 (1) (2) (1).png" alt="third slide"
                             width="100%">
                     </a>
                 </div>
-
-
-
             </div>
-
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
@@ -45,17 +35,8 @@
                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
-
         </div>
         <!-- Controls -->
-
-        </div>
-
-        <script>
-
-
-
-        </script>
 
         <script>
         $(document).ready(function() {
