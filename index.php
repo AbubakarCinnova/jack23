@@ -175,20 +175,19 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2>Your Comfort Is Our Business</h2>
-                        <p>Jack's Heating and Cooling is the premier HVAC company in the southeast Michigan
-                            area. Since
-                            1995,
-                            we have been proudly serving the local community with our outstanding heating and air
-                            conditioning
-                            services.
-                            We are a family-owned and operated business that has built its reputation on high quality,
-                            value, and a
-                            worry-free customer experience. Our NATE-certified HVAC technicians are at the top of their
-                            field and
-                            continually receive training to improve their knowledge. From routine maintenance to
-                            emergency repairs to
-                            quality installation of high-efficiency home comfort systems, give us a call today!</p>
+                        <h2>Jack's Heating and Cooling: 76 Years of Trusted HVAC Service</h2>
+                        <p>Jack's Heating and Cooling - your trusted family-owned heating and cooling contractor in
+                            Michigan's Thumb area for over 76 years. Our long-standing presence and dedication have made
+                            us the gold standard in our industry.
+
+                            We take pride in building lasting relationships with our clients, some of whom have been
+                            with us for decades. Our mission is to build the same strong bond with you, providing
+                            exceptional customer service that goes above and beyond.
+
+                            At Jack's Heating and Cooling, your satisfaction is paramount. Whether you need furnace
+                            repair, quality installation of Lennox systems, heat pumps, air conditioners, or regular
+                            maintenance, we are committed to exceeding your expectations. Join our community of
+                            satisfied customers and experience top-notch service that stands the test of time. </p>
 
 
 
