@@ -1,6 +1,5 @@
 <?php include('header.php'); ?>
 <title>Furnace, Air Conditioning|Home Generator | Jack's Heating and Cooling | Lapeer, Caro, Michigan</title>
-
 <?php include('menu.php'); ?>
 
 </head>
@@ -29,7 +28,6 @@
             </div>
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <i class="fa fa-chevron-left"></i>
                 <span class="sr-only">Previous</span>
             </a>
             <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">

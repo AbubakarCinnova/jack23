@@ -29,6 +29,7 @@
 
     <link rel="stylesheet" href="<?php echo $base_url ?>/css/font-awesome.min.css">
 
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
 
 
     <!-- owl carasoul css -->
