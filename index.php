@@ -207,11 +207,9 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">Very professional and impressed with the overall installation of
-                            our new
-                            furnace and ac unit. The job was left clean and the installers were great. Would highly
-                            recommend 911
-                            Mechanical. </p>
+                        <p class="light text-center ">Wonderful company, great installation and very friendly! Highly
+                            recommend them for anyone heat or ac needs.
+                        </p>
 
                         <h3 class="text-center">C.B </h3>
 
@@ -223,11 +221,8 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">The technicians were on time and friendly. They replaced my
-                            furnace and air
-                            conditioner. They explained what they were going to do before they started and answered all
-                            my questions.
-                            Would definitely recommend them!</p>
+                        <p class="light text-center ">Professional and friendly and answered all my questions!!! Can't
+                            thank them enough!!</p>
 
                         <h3 class="text-center">J.S</h3>
 
@@ -239,9 +234,9 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">911 Mechanical Heating-Cooling has a few finest technicians
-                            working at this
-                            company. They have experience and they are truly professional.</p>
+                        <p class="light text-center ">We are very happy to have recently had a new Lennox furnace and
+                            a/c installed by Jacks Heating and Cooling.
+                        </p>
 
                         <h3 class="text-center">S.K</h3>
 
@@ -253,11 +248,9 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">The entire experience was excellent from the estimate to the
-                            installation.
-                            We're very pleased with our new HVAC system and it has made a significant difference. The
-                            team was polite,
-                            professional, and expert at their jobs.</p>
+                        <p class="light text-center ">These folks are very personable and professional. They responded
+                            quickly to my request for a quote. That quote was completed the very next day!
+                        </p>
 
                         <h3 class="text-center">C.T</h3>
 
@@ -266,11 +259,21 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">Honest company, responsive, we have now used them for new HVAC on
-                            2 different
-                            homes and will continue to use them. They do not work off commission, so what you want is
-                            what you get at
-                            a market value price. Recommend to anyone.</p>
+                        <p class="light text-center ">Very professional company, did a complete install for me .very
+                            happy with the price and their work, thanks again.
+                        </p>
+
+                        <h3 class="text-center">S.C</h3>
+
+                    </div>
+
+                    <div class="col-sm-12 item  owl-item">
+
+                        <p class="light text-center ">
+                        <p class="light text-center ">Can't say enough good about this company. LOVE that they are on
+                            time, and professional.
+
+                        </p>
 
                         <h3 class="text-center">S.C</h3>
 
