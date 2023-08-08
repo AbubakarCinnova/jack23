@@ -46,7 +46,7 @@
                                     <li>Ductless Air Conditioning Split Systems (VRF)</li>
                                     <li>All-in-One Solution Packaged Systems</li>
                                     <li>Complete seasonal inspections of HVAC systems</li>
-                                    <li>24/7 Emergency Repair Service</li>
+                                    <li>Emergency Repair Service</li>
                                     <li>Temperature/Humidity Control</li>
                                     <li>Indoor Air Quality</li>
                                     <li>HVAC Sales, Repair, Installation</li>
@@ -61,9 +61,10 @@
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Contact Us</a>
                                 <br> <br>
 
-                                <p><strong>When it comes to getting the best commercial HVAC equipment or service, the only name
-                                    you need to know in the
-                                    Thumb area of Michigan is Jacks Heating and Cooling.</strong></p>
+                                <p><strong>When it comes to getting the best commercial HVAC equipment or service, the
+                                        only name
+                                        you need to know in the
+                                        Thumb area of Michigan is Jacks Heating and Cooling.</strong></p>
 
                                 <br>
 

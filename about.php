@@ -18,7 +18,7 @@
 
 
 
-                                <h2>Caleb Hill President and Tim Hill Owner Jack's Heating and Cooling</h2>
+                                <h2>Caleb Hill and Tim Hill Owners of Jack's Heating and Cooling</h2>
 
                                 <img src="<?php echo $base_url ?>/img/jacks about (1).jpeg" alt="Financing"
                                     style="float: right;width: 45%; padding:5px 15px;">

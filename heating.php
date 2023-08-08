@@ -22,12 +22,10 @@
 
                                 <h2>Furnace Repair</h2>
                                 <p>If your furnace has broken down again, don't hesitate to contact Jack's Heating and
-                                    Cooling. We'll arrive
-                                    promptly and quickly fix the issue, allowing you to focus on more important matters.
-                                    Our skilled technicians are
-                                    equipped to handle repairs for all types of furnaces, including gas, electric, dual
-                                    fuel, and heat pump systems.
-                                    We service and repair all brands and models, and offer 24/7 emergency services.</p>
+                                    Cooling. We'll arrive promptly and quickly fix the issue, allowing you to focus on
+                                    more important matters. Our skilled technicians are equipped to handle repairs for
+                                    all types of furnaces, including gas, electric, dual fuel, and heat pump systems. We
+                                    service and repair all brands and models, and offer emergency services.</p>
 
                                 <h2>Furnace Replacement and Installation</h2>
                                 <p>Jack's Heating and Cooling can help lower your high utility costs with the

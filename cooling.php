@@ -99,7 +99,7 @@
                                     <li>Lennox Dealer</li>
                                     <li>RUUD Dealer</li>
                                     <li>Indoor Air Quality Installation</li>
-                                    <li>24/7 Emergency Services</li>
+                                    <li> Emergency Service</li>
                                     <li>Whole House Humidifiers</li>
                                     <li>Whole House Air Purifiers</li>
                                 </ul>

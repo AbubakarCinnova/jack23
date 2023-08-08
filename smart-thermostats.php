@@ -228,7 +228,7 @@
                                     apart from the competition:</h2>
                                 <ul>
                                     <li>Satisfaction Guaranteed</li>
-                                    <li>24/7 Emergency Service</li>
+                                    <li> Emergency Service</li>
                                     <li>Locally-Owned and Operated Business</li>
                                     <li>All our Installers and Technicians are Licensed and Insured </li>
                                     <li>Lennox Approved Comfort Specialists</li>
