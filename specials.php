@@ -17,6 +17,10 @@
                                 <img src="<?php echo $base_url ?>/img/jack's_20OFF_6x425-1 (2).png" alt="ad"
                                     class="img-responsive">
                             </div>
+                            <div class="col-md-6">
+                                <img src="<?php echo $base_url ?>/img/jack's_CONDEMNED_DSYSTEMS-1800X1275-ps.png"
+                                    alt="ad2" class="img-responsive">
+                            </div>
 
 
                             <!--  <div class="col-sm-12">
