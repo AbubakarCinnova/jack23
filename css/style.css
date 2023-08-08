@@ -2319,7 +2319,7 @@ textarea {
 }
 
 @media(min-width:991px){
-  .mid_header row{
+  .mid_header .row{
     display: flex;
     align-items: center;
   }
