@@ -2318,6 +2318,13 @@ textarea {
   }
 }
 
+@media(min-width:991px){
+  .mid_header row{
+    display: flex;
+    align-items: center;
+  }
+}
+
 @media (max-width: 470px) {
   .mid_header .btn h2 {
     font-size: 18px;
