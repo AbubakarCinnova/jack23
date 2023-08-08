@@ -69,16 +69,12 @@
                                     higher initial cost, it saves
                                     on monthly heating bills.</p>
 
-                                <h2>Variable Speed Furnace</h2>
-                                <p>A variable-speed furnace is a type of heating system that uses a variable-speed
-                                    blower motor to adjust the
-                                    airflow through the furnace. This allows the furnace to adjust the fan speed based
-                                    on heating demand, resulting
-                                    in better temperature control, improved indoor air quality, and consistent
-                                    temperature, and reduces the number of
-                                    times the furnace has to cycle on and off. This makes it more energy efficient and
-                                    cost-effective than
-                                    traditional, fixed-speed furnaces.</p>
+                                <h2>Variable Speed Blower</h2>
+                                <p>A furnace equipped with a variable-speed blower brings numerous advantages, including
+                                    heightened energy efficiency, elevated comfort, and reduced noise during operation.
+                                    In contrast to conventional single-speed blowers that maintain a constant speed,
+                                    variable-speed blowers can adapt their velocity according to your home's heating
+                                    requirements.</p>
 
                                 <h2>Single Stage Furnaces</h2>
                                 <p>The single-stage furnace is the most basic and affordable option among all types of
