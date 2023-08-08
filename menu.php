@@ -92,9 +92,9 @@
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
                     </ul>
 
+                <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
                 <li><a class="dropdown-toggle">Services</a>
                     <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
 
                         <li><a href="<?php echo $base_url ?>/tin-man-club.php">Annual Tin Man Service Club</a></li>
                         <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
