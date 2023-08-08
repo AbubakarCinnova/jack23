@@ -2318,7 +2318,7 @@ textarea {
   }
 }
 
-@media(min-width:991px){
+@media(min-width:993px){
   .mid_header .row{
     display: flex;
     align-items: center;
