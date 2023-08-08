@@ -96,7 +96,7 @@
                                     <li>HVAC</li>
                                     <li>AC Tune-Ups</li>
                                     <li>Emergency Air Conditioning Repairs and Service</li>
-                                    <li>24/7 Air Conditioning Repairs</li>
+                                    
                                     <li>Heat Pump Repairs</li>
                                 </ul>
 

@@ -1,7 +1,8 @@
 <?php include_once('header.php') ?>
 <title>Furnace Repair Akron, MI | Air Conditioning Akron, MI | Heating, &amp; Cooling Akron, MI </title>
 
-<meta name="description" content=" When it comes to reliable and professional heating and cooling services in Akron, Michigan Jacks Heating and Cooling stands out from the competition." />
+<meta name="description"
+    content=" When it comes to reliable and professional heating and cooling services in Akron, Michigan Jacks Heating and Cooling stands out from the competition." />
 <meta name="rating" content="general" />
 <meta name="revisit-after" content="3 days" />
 <meta name="robots" content="index, follow" />
@@ -75,7 +76,8 @@
 
                                 <br>
 
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Service</a>
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
+                                    Service</a>
                                 <br>
                                 <h2>Experience Unmatched Air Conditioning Services</h2>
                                 <p>Embrace cool comfort even during the hottest Akron summers with our exceptional
@@ -104,7 +106,7 @@
                                     <li>HVAC</li>
                                     <li>AC Tune-Ups</li>
                                     <li>Emergency Air Conditioning Repairs and Service</li>
-                                    <li>24/7 Air Conditioning Repairs</li>
+
                                     <li>Heat Pump Repairs</li>
                                 </ul>
 
