@@ -76,6 +76,7 @@
                 <li><a href="<?php echo $base_url ?>/heating.php">Heating</a>
 
                     <ul class="dropdown-menu">
+                        <li><a href="<?php echo $base_url ?>/oil-furnaces.php">Oil Furnaces</a></li>
                         <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
                         <li><a href="<?php echo $base_url ?>/furnaces.php">Furnaces</a></li>
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
