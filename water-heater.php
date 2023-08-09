@@ -19,7 +19,7 @@
                         <div class="row">
                             <div class="col-sm-12">
 
-                                <img src="<?php echo $base_url ?>/img/local water heater-1 (2).jpg" alt="water heater"
+                                <img src="<?php echo $base_url ?>/img/local water heater-1.png" alt="water heater"
                                     class="full-width-img">
                                 <br>
                                 <br>
