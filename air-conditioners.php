@@ -87,7 +87,7 @@
                                     improved energy efficiency
                                     compared to older models with lower SEER ratings.</p>
 
-                                <h2>Customized Heating Solutions</h2>
+                                <h2>Customized Cooling Solutions</h2>
                                 <p>Welcome to Jack's Heating and Cooling, where we specialize in creating personalized
                                     home comfort solutions
                                     designed just for you. We understand that each home is unique, so we carefully
