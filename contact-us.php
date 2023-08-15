@@ -257,22 +257,21 @@
 <div class="clearfix border-black"></div>
 
 <div class="container">
+
     <div class="margin-bottom-lg margin-top-lg clearfix" style="padding-top:20px; padding-bottom:20px;">
-        <div class="row">
-            <div class="col-md-6">
-                <h1>Contact Us</h1>
-                <br>
-                <p> <strong>CARO OFFICE</strong> <br>
-                    Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
-                    (989) 672-8451 <br>
-                    <strong>LAPEER OFFICE</strong> <br> <br>
-                    Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
-                    (810) 664-8451
-                </p>
-            </div>
-            <div class="col-md-6">
-                <p><img src="<?php echo $base_url ?>/img/jacks.jpeg" style="width:70%"></p>
-            </div>
+        <div class="col-md-6">
+            <h1>Contact Us</h1>
+            <p> <strong>CARO OFFICE</strong> <br>
+                Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
+                (989) 672-8451 <br>
+                <strong>LAPEER OFFICE</strong> <br> <br>
+                Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
+                (810) 664-8451
+            </p>
+        </div>
+        <div class="col-md-6">
+            <br><br>
+            <p><img src="<?php echo $base_url ?>/img/jacks.jpeg" style="width:70%"></p>
         </div>
         <div class="col-sm-8 col-xs-12 margin-bottom-sm">
             <br>
