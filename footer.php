@@ -2,11 +2,11 @@
 
     <footer class="full-row main-footer text-white">
         <div class="container">
-            <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
+            <div class="col-md-5 col-sm-12 col-xs-12 footer-item" style="text-align:center;">
 
                 <!--   <h3>About Us</h3> -->
                 <p><img src="<?php echo $base_url ?>/img/premier dealer (2).jpg" style="width:70%"></p>
-                <p><img src="<?php echo $base_url ?>/img/kohler gen logo.jpg" style="width:70%"></p>
+                <p><img src="<?php echo $base_url ?>/img/kohler gen logo.jpg" style="width:200px"></p>
                 <!--     <p class="light">At Jack's Heating and Cooling, we aim to exceed client expectations by employing the
                     best customer service people and holding ourselves to only the highest level of customer care. Our
                     friendly customer service people will answer all your questions, scheduling service, financing and
