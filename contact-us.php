@@ -262,10 +262,22 @@
             <h1>Contact Us</h1>
 
 
-            <p><strong>If, after normal business hours, emails won't be answered until the next business day, if you
-                    need emergency service, please Call 1 888 797 5225</strong></p>
+            <div class="row">
+                <div class="col-md-6">
+                    <p> <strong>CARO OFFICE</strong> <br>
+                        Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
+                        (989) 672-8451 <br>
+                        <strong>LAPEER OFFICE</strong> <br>
+                        Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
+                        (810) 664-8451
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <p><img src="<?php echo $base_url ?>/img/jacks.jpeg" style="width:70%"></p>
+                </div>
+            </div>
             <br>
-            <form action="<?php echo $base_url; ?>/contact-us.php" method="POST" class="form-horizontal">
+            <form action=" <?php echo $base_url; ?>/contact-us.php" method="POST" class="form-horizontal">
                 <?php
              display_message($errors);
              ?>
