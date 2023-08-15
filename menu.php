@@ -76,20 +76,21 @@
                 <li><a href="<?php echo $base_url ?>/heating.php">Heating</a>
 
                     <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/oil-furnaces.php">Oil Furnaces</a></li>
+                        <li><a href="<?php echo $base_url ?>/furnaces.php"> Gas Furnaces</a></li>
+                        <li><a href="<?php echo $base_url ?>/boilers.php">Gas Boilers </a></li>
                         <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
-                        <li><a href="<?php echo $base_url ?>/furnaces.php">Furnaces</a></li>
-                        <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
+                        <li><a href="<?php echo $base_url ?>/oil-furnaces.php">Oil Furnaces</a></li>
                         <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
-                        <li><a href="<?php echo $base_url ?>/boilers.php"> Boilers </a></li>
+                        <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
 
                     </ul>
                 </li>
 
                 <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling</a>
                     <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/mini-splits.php">Ductless Mini Split</a></li>
-                        <li><a href="<?php echo $base_url ?>/air-conditioners.php">Air Conditioners</a></li>
+                        <li><a href="<?php echo $base_url ?>/air-conditioners.php">AC</a></li>
+                        <li><a href="<?php echo $base_url ?>/mini-splits.php">Mini Split</a></li>
+                        <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
                     </ul>
 
