@@ -263,15 +263,15 @@
             <h1>Contact Us</h1>
             <p> <strong>CARO OFFICE</strong> <br>
                 Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
-                (989) 672-8451 <br>
-                <strong>LAPEER OFFICE</strong> <br> <br>
+                <a href="tel:+19896728451">(989) 672-8451</a> <br> <br>
+                <strong>LAPEER OFFICE</strong> <br>
                 Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
-                (810) 664-8451
+                <a href="tel:+18106648451">(810) 664-8451</a>
             </p>
         </div>
         <div class="col-md-6">
             <br><br>
-            <p><img src="<?php echo $base_url ?>/img/jacks.jpeg" style="width:70%"></p>
+            <p><img src="<?php echo $base_url ?>/img/jacks.jpeg" style="width:75%"></p>
         </div>
         <div class="col-sm-8 col-xs-12 margin-bottom-sm">
             <br>
