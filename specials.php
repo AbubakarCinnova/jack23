@@ -14,7 +14,7 @@
                     <div class=" content-area specials-page">
                         <div class="row">
                             <div class="col-md-6">
-                                <img src="<?php echo $base_url ?>/img/jack's_20OFF_6x425-1 (2).png" alt="ad"
+                                <img src="<?php echo $base_url ?>/img/jack's_20OFF_6x425-1(ps).png" alt="ad"
                                     class="img-responsive">
                             </div>
                             <div class="col-md-6">
