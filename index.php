@@ -25,6 +25,12 @@
                             width="100%">
                     </a>
                 </div>
+                <div class="item">
+                    <a href="<?php echo $base_url ?>/generators.php"> <img
+                            src="<?php echo $base_url; ?>/img/jaks_gen_1000X350 (3).png" alt="fourth slide"
+                            width="100%">
+                    </a>
+                </div>
             </div>
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
