@@ -35,7 +35,6 @@
 
                                 <p>When you own a home, one of the most challenging choices you'll face regarding your
                                     furnace is determining when it's necessary to replace your heating system.
-                                    <br>
                                     If you're conducting online research or have come across discussions on variable
                                     speed heating, single-stage, two-stage, and modulating gas valves, as well as AFUE
                                     ratings, allow us to assist you by providing explanations for these furnace systems
@@ -159,6 +158,7 @@
                                     </li>
                                     <li>Heat Exchanger Warranty 20-Year Limited Warranty</li>
                                 </ul>
+                                <br>
 
                                 <p><strong>When it comes to getting the best heating and cooling equipment or service,
                                         the only
