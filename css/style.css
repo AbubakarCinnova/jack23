@@ -687,13 +687,7 @@ a:visited {
   border-color: #000000;
   border: 0px;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  left: -0.5px;
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
 }
@@ -2318,8 +2312,8 @@ textarea {
   }
 }
 
-@media(min-width:993px){
-  .mid_header .row{
+@media (min-width: 993px) {
+  .mid_header .row {
     display: flex;
     align-items: center;
   }
