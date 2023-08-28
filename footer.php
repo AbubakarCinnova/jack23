@@ -15,7 +15,7 @@
             </div>
             <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
                 <h3>Service Areas</h3>
-                <ul class="footer-list" style="display: flex; flex-wrap: wrap;">
+                <ul class="footer-list" style="display: flex; flex-wrap: wrap;justify-content:space-between; ">
                     <div class="item-list-inner">
                         <li><a href="<?php echo $base_url ?>/davison.php">Davison</a></li>
                         <li><a href="<?php echo $base_url ?>/goodrich.php">Goodrich</a></li>

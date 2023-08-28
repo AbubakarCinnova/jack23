@@ -3144,11 +3144,11 @@ strong {
 
 @media (min-width: 320px) {
   .item-list-inner {
-    margin-right: 30px !important;
+    margin-right: 15px !important;
   }
 }
 .item-list-inner {
-  width: 120px;
+  width: 140px;
 }
 @media (max-width: 991px) {
   .footer-list {
