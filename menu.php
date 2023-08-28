@@ -9,7 +9,7 @@
                         src="<?php echo $base_url ?>/img/logo.jpg" width="150" /></a> </div>
 
             <div class="col-md-4 ">
-                <h3>Call for appointment</h3>
+                <h3>Call for Appointment</h3>
                 <a href="tel:18887975225" style="color:black;">
                     <h2>1-888-797-5225</h2>
                 </a>
