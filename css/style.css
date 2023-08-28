@@ -2128,11 +2128,7 @@ textarea {
 }
 
 .testmonial .item::before {
-  font-family: FontAwesome;
-  content: "\f10d";
-  text-align: left;
-  color: #e2e2e2;
-  font-size: 30px;
+  background: url("<?php echo $base_url ?>/img/inverted-commas.png") !important;
 }
 
 .testmonial .item::after {
