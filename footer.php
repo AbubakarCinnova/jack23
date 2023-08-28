@@ -25,13 +25,8 @@
                         <li><a href="<?php echo $base_url ?>/metamora.php">Metamora</a></li>
                         <li><a href="<?php echo $base_url ?>/cass-city.php">Cass City</a></li>
                         <li><a href="<?php echo $base_url ?>/sandusky.php">Sandusky</a></li>
-                        <li><a href="<?php echo $base_url ?>/ortonville.php">Ortonville</a></li>
-                        <li><a href="<?php echo $base_url ?>/marlette.php">Marlette</a></li>
-                        <li><a href="<?php echo $base_url ?>/richville.php">Richville</a></li>
-                        <li><a href="<?php echo $base_url ?>/akron.php">Akron</a></li>
-                        <li><a href="<?php echo $base_url ?>/sebewaing.php">Sebewaing</a></li>
                     </div>
-                    <div>
+                    <div class="item-list-inner">
                         <li><a href="<?php echo $base_url ?>/lake-orion.php">Lake Orion</a></li>
                         <li><a href="<?php echo $base_url ?>/vassar.php">Vassar</a></li>
                         <li><a href="<?php echo $base_url ?>/oxford.php">Oxford</a></li>
@@ -44,6 +39,14 @@
                         </li>
                         <li><a href="<?php echo $base_url ?>/frankenmuth.php">Frankenmuth</a></li>
                         <li><a href="<?php echo $base_url ?>/millington.php">Millington</a></li>
+                    </div>
+
+                    <div>
+                        <li><a href="<?php echo $base_url ?>/ortonville.php">Ortonville</a></li>
+                        <li><a href="<?php echo $base_url ?>/marlette.php">Marlette</a></li>
+                        <li><a href="<?php echo $base_url ?>/richville.php">Richville</a></li>
+                        <li><a href="<?php echo $base_url ?>/akron.php">Akron</a></li>
+                        <li><a href="<?php echo $base_url ?>/sebewaing.php">Sebewaing</a></li>
                         <li><a href="<?php echo $base_url ?>/fairgrove.php">Fairgrove</a></li>
                         <li><a href="<?php echo $base_url ?>/gagetown.php">Gagetown</a></li>
                         <li><a href="<?php echo $base_url ?>/unionville.php">Unionville</a></li>
