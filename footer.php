@@ -2,7 +2,7 @@
 
     <footer class="full-row main-footer text-white">
         <div class="container">
-            <div class="col-md-5 col-sm-12 col-xs-12 footer-item" style="text-align:center;">
+            <div class="col-md-4 col-sm-12 col-xs-12 footer-item" style="text-align:center;">
 
                 <!--   <h3>About Us</h3> -->
                 <p><img src="<?php echo $base_url ?>/img/premier dealer (2).jpg" style="width:70%"></p>
@@ -13,7 +13,7 @@
                     guide you through the install and rebate process.</p> -->
 
             </div>
-            <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
+            <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
                 <h3>Service Areas</h3>
                 <ul class="footer-list" style="display: flex; flex-wrap: wrap;">
                     <div class="item-list-inner">
@@ -53,7 +53,7 @@
                     </div>
                 </ul>
             </div>
-            <div class="col-md-4 col-sm-12 col-xs-12 footer-item">
+            <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
                 <p><strong>LAPEER OFFICE</strong> <br>
                     Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
