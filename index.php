@@ -95,7 +95,7 @@
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/heating.php">
                             <div class="icon">
-                                <img src="<?php echo $base_url; ?>/img/Asset 3.png" alt="" class="img-responsive">
+                                <img src="<?php echo $base_url; ?>/img/heating.png" alt="" class="img-responsive">
                             </div>
                             <h4>Heating</h4>
                             <p> </p>
@@ -118,7 +118,8 @@
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/mini-splits.php">
                             <div class="icon">
-                                <img src="<?php echo $base_url; ?>/img/mini-split.png" alt="" class="img-responsive">
+                                <img src="<?php echo $base_url; ?>/img/mini-splits-unit-image-transparent (2).png"
+                                    alt="" class="img-responsive">
                             </div>
                             <h4>Mini <br> Splits</h4>
                             <p> </p>
@@ -129,7 +130,7 @@
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/financing.php">
                             <div class="icon" style="cursor: pointer;">
-                                <img src="<?php echo $base_url; ?>/img/Asset 2.png" alt="" class="img-responsive">
+                                <img src="<?php echo $base_url; ?>/img/finance.png" alt="" class="img-responsive">
                             </div>
                             <h4>Financing</h4>
                             <p> </p>
