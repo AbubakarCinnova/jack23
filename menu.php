@@ -10,7 +10,7 @@
 
             <div class="col-md-4 ">
                 <h3>Call for appointment</h3>
-                <a href="tel:18887975225">
+                <a href="tel:18887975225" style="color:black;">
                     <h2>1-888-797-5225</h2>
                 </a>
             </div>
