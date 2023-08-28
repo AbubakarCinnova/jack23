@@ -25,9 +25,9 @@
                         <li><a href="<?php echo $base_url ?>/metamora.php">Metamora</a></li>
                         <li><a href="<?php echo $base_url ?>/cass-city.php">Cass City</a></li>
                         <li><a href="<?php echo $base_url ?>/sandusky.php">Sandusky</a></li>
+                        <li><a href="<?php echo $base_url ?>/lake-orion.php">Lake Orion</a></li>
                     </div>
                     <div class="item-list-inner">
-                        <li><a href="<?php echo $base_url ?>/lake-orion.php">Lake Orion</a></li>
                         <li><a href="<?php echo $base_url ?>/vassar.php">Vassar</a></li>
                         <li><a href="<?php echo $base_url ?>/oxford.php">Oxford</a></li>
                         <li><a href="<?php echo $base_url ?>/grand-blanc.php">Grand Blanc</a></li>
