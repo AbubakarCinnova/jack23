@@ -2101,17 +2101,24 @@ textarea {
   font-weight: bold;
 }
 
+.read-more-wrap {
+  margin-top: 40px;
+}
+.read-more-wrap a {
+  font-size: 16px;
+  font-weight: 600;
+}
 .testmonial .owl-theme .owl-controls .owl-page span {
-  height: 7px;
-  width: 60px;
-  border-radius: 0;
+  height: 10px;
+  width: 10px;
+  border-radius: 50px;
   background: #000000;
   opacity: 1;
 }
 
 .testmonial .owl-theme .owl-controls .owl-page.active span,
 .testmonial .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #d30f0f;
+  background: #428bca;
   opacity: 1;
 }
 
