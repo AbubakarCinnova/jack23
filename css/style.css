@@ -2128,7 +2128,7 @@ textarea {
 }
 
 .testmonial .item::before {
-  background: url("<?php echo $base_url ?>/img/inverted-commas.png") !important;
+  background-image: url("<?php echo $base_url ?>/img/inverted-commas.png") !important;
 }
 
 .testmonial .item::after {
