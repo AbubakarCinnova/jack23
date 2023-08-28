@@ -287,8 +287,9 @@
                 </div>
 
                 <div class="col-sm-12 text-center">
-
-                    <a href="<?php echo $base_url ?>/testimonials.php" class="stretched-link">Read More</a>
+                    <div class="read-more-wrap">
+                        <a href="<?php echo $base_url ?>/testimonials.php" class="stretched-link ">Read More</a>
+                    </div>
 
                 </div>
             </div>
