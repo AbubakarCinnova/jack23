@@ -41,7 +41,7 @@
                         <li><a href="<?php echo $base_url ?>/millington.php">Millington</a></li>
                     </div>
 
-                    <div>
+                    <div class="item-list-inner">
                         <li><a href="<?php echo $base_url ?>/ortonville.php">Ortonville</a></li>
                         <li><a href="<?php echo $base_url ?>/marlette.php">Marlette</a></li>
                         <li><a href="<?php echo $base_url ?>/richville.php">Richville</a></li>
