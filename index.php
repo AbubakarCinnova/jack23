@@ -302,7 +302,7 @@
             <div class="container">
 
                 <h2 style="color: white;">Please call us at <a href="tel:+18887975225"
-                        style="color: #bebebe;">1-888-797-JACK</a>
+                        style="color: #3f3f3f;">1-888-797-JACK</a>
                     To Make an Appointment.</h2>
 
             </div>
