@@ -24,8 +24,9 @@
 }
 .blue-boxes h4 {
   font-weight: 600;
+  margin-top: 20px;
   line-height: 24px;
-  color: #1e13c5;
+  color: #000000;
 }
 
 @media (max-width: 768px) {
