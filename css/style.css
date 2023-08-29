@@ -3144,7 +3144,7 @@ strong {
 
 @media (min-width: 320px) {
   .item-list-inner {
-    margin-right: 15px !important;
+    margin-right: 10px !important;
   }
 }
 .item-list-inner {
@@ -3168,6 +3168,7 @@ strong {
 @media (min-width: 768px) {
   .navbar-nav li:hover > ul.dropdown-menu {
     display: block;
+    transition: 0.3s ease-in-out;
   }
 
   .navbar-nav li:hover > a {
