@@ -665,7 +665,8 @@ a:visited {
 }
 
 .dropdown-menu > li > a:focus,
-.dropdown-menu > li > a:hover {
+.dropdown-menu > li > a:hover,
+.dropdown-menu li:hover {
   color: #fff !important;
   text-decoration: none;
   background-color: #d51c1c !important;
