@@ -3193,3 +3193,12 @@ strong {
   top: 9px;
   left: -7px;
 }
+
+.arrow-dropdown{
+
+  font-size: 24px;
+      line-height: 0;
+      position: relative;
+      top: 7px;
+      left: 2px;
+}
