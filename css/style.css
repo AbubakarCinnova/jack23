@@ -671,6 +671,9 @@ a:visited {
   background-color: #ee001c !important;
   background-image: none;
 }
+.dropdown-menu li a ul li a:hover {
+  background-color: #ee001c !important;
+}
 
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
