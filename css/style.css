@@ -668,8 +668,8 @@ a:visited {
 .dropdown-menu > li > a:hover {
   color: #fff !important;
   text-decoration: none;
-  background-color: #000000 !important;
-  background-image: none;
+  background-color: #d51c1c !important;
+  background-image: none !important;
 }
 
 .dropdown-menu > .active > a,
