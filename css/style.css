@@ -3185,5 +3185,11 @@ strong {
 }
 
 .arrow-icon-blue-box {
-  font-size: 13px;
+  font-size: 32px;
+  width: 0px;
+  line-height: 10px;
+  position: relative;
+  margin-bottom: auto;
+  top: 9px;
+  left: -7px;
 }
