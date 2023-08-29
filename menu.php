@@ -66,7 +66,8 @@
 
                     <li><a href="<?php echo $base_url ?>/"><img src="<?php echo $base_url ?>/img/home_1.png"></a></li>
 
-                    <li><a href="<?php echo $base_url ?>/about.php">About<span class="material-symbols-outlined">
+                    <li><a href="<?php echo $base_url ?>/about.php">About<span
+                                class="material-symbols-outlined arrow-dropdown">
                                 arrow_drop_down
                             </span></a>
                         <ul class="dropdown-menu">
@@ -75,7 +76,8 @@
                     </li>
                 </ul>
 
-                <li><a href="<?php echo $base_url ?>/heating.php">Heating<span class="material-symbols-outlined">
+                <li><a href="<?php echo $base_url ?>/heating.php">Heating<span
+                            class="material-symbols-outlined arrow-dropdown">
                             arrow_drop_down
                         </span></a>
 
@@ -91,7 +93,7 @@
                 </li>
 
                 <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling<span
-                            class="material-symbols-outlined">
+                            class="material-symbols-outlined arrow-dropdown">
                             arrow_drop_down
                         </span></a>
                     <ul class="dropdown-menu">
@@ -102,7 +104,7 @@
                     </ul>
 
                 <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
-                <li><a class="dropdown-toggle">Services<span class="material-symbols-outlined">
+                <li><a class="dropdown-toggle">Services<span class="material-symbols-outlined arrow-dropdown">
                             arrow_drop_down
                         </span></a>
                     <ul class="dropdown-menu">
