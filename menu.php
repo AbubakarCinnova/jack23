@@ -66,14 +66,18 @@
 
                     <li><a href="<?php echo $base_url ?>/"><img src="<?php echo $base_url ?>/img/home_1.png"></a></li>
 
-                    <li><a href="<?php echo $base_url ?>/about.php">About</a>
+                    <li><a href="<?php echo $base_url ?>/about.php">About</a><span class="material-symbols-outlined">
+                            arrow_drop_down
+                        </span>
                         <ul class="dropdown-menu">
                             <li><a href="<?php echo $base_url ?>/testimonials.php">Testimonials</a></li>
 
                     </li>
                 </ul>
 
-                <li><a href="<?php echo $base_url ?>/heating.php">Heating</a>
+                <li><a href="<?php echo $base_url ?>/heating.php">Heating</a><span class="material-symbols-outlined">
+                        arrow_drop_down
+                    </span>
 
                     <ul class="dropdown-menu">
                         <li><a href="<?php echo $base_url ?>/furnaces.php"> Gas Furnaces</a></li>
@@ -86,7 +90,10 @@
                     </ul>
                 </li>
 
-                <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling</a>
+                <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling</a><span
+                        class="material-symbols-outlined">
+                        arrow_drop_down
+                    </span>
                     <ul class="dropdown-menu">
                         <li><a href="<?php echo $base_url ?>/air-conditioners.php">AC</a></li>
                         <li><a href="<?php echo $base_url ?>/mini-splits.php">Mini Split</a></li>
@@ -94,7 +101,10 @@
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
                     </ul>
 
-                <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
+                <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li><span
+                    class="material-symbols-outlined">
+                    arrow_drop_down
+                </span>
                 <li><a class="dropdown-toggle">Services</a>
                     <ul class="dropdown-menu">
 
