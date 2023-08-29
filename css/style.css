@@ -28,7 +28,7 @@
   line-height: 24px;
   color: #2e22e1;
 }
-.blue-boxes a:hover > h4 {
+.blue-boxes a:hover {
   color: #000000 !important;
 }
 
