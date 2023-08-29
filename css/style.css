@@ -667,9 +667,9 @@ a:visited {
 .dropdown-menu > li > a:focus,
 .dropdown-menu > li > a:hover {
   color: #fff !important;
-  text-decoration: none !important;
-  background-color: #d51c1c !important;
-  background-image: none !important;
+  text-decoration: none;
+  background-color: #000000 !important;
+  background-image: none;
 }
 
 .dropdown-menu > .active > a,
@@ -3172,7 +3172,7 @@ strong {
   }
 
   .navbar-nav li:hover > a {
-    background-color: black;
+    background-color: black !important;
     color: white !important;
   }
   .img-about {
