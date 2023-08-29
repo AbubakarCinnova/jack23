@@ -178,13 +178,13 @@
                         <h2>Jack's Heating and Cooling: 76 Years of Trusted HVAC Service</h2>
                         <p>Jack's Heating and Cooling - your trusted family-owned heating and cooling contractor in
                             Michigan's Thumb area for over 76 years. Our long-standing presence and dedication have made
-                            us the gold standard in our industry. <br>
+                            us the gold standard in our industry. </p>
 
-                            We take pride in building lasting relationships with our clients, some of whom have been
+                        <p>We take pride in building lasting relationships with our clients, some of whom have been
                             with us for decades. Our mission is to build the same strong bond with you, providing
-                            exceptional customer service that goes above and beyond. <br>
+                            exceptional customer service that goes above and beyond. </p>
 
-                            At Jack's Heating and Cooling, your satisfaction is paramount. Whether you need furnace
+                        <p> At Jack's Heating and Cooling, your satisfaction is paramount. Whether you need furnace
                             repair, quality installation of Lennox systems, heat pumps, air conditioners, or regular
                             maintenance, we are committed to exceeding your expectations. Join our community of
                             satisfied customers and experience top-notch service that stands the test of time. </p>
