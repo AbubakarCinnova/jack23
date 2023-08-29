@@ -97,7 +97,9 @@
                             <div class="icon">
                                 <img src="<?php echo $base_url; ?>/img/heating.png" alt="" class="img-responsive">
                             </div>
-                            <h4>Heating</h4>
+                            <h4>Heating <span class="material-symbols-outlined">
+                                    arrow_forward_ios
+                                </span></h4>
                             <p> </p>
                         </a>
                     </div>
