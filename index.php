@@ -85,7 +85,7 @@
                             <div class="icon">
                                 <img src="<?php echo $base_url; ?>/img/Asset 4.png" alt="" class="img-responsive">
                             </div>
-                            <h4>Air<br>Conditioning</h4>
+                            <h4>Air Conditioning</h4>
                             <p> </p>
                         </a>
                     </div>
@@ -121,7 +121,7 @@
                                 <img src="<?php echo $base_url; ?>/img/mini-splits-unit-image-transparent (2).png"
                                     alt="" class="img-responsive">
                             </div>
-                            <h4>Mini <br> Splits</h4>
+                            <h4>Mini Splits</h4>
                             <p> </p>
                         </a>
                     </div>
