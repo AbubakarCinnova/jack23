@@ -32,7 +32,7 @@
   color: #000000 !important;
 }
 .blue-boxes a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 @media (max-width: 768px) {
