@@ -664,15 +664,12 @@ a:visited {
   transition: 0.3s ease-in-out;
 }
 
-/* .dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:focus,
 .dropdown-menu > li > a:hover {
   color: #fff !important;
-  text-decoration: none;
-  background-color: #ee001c !important;
-  background-image: none;
-} */
-.dropdown-menu li:hover {
-  background-color: #ee001c !important ;
+  text-decoration: none !important;
+  background-color: #d51c1c !important;
+  background-image: none !important;
 }
 
 .dropdown-menu > .active > a,
