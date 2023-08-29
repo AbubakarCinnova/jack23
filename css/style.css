@@ -31,6 +31,9 @@
 .blue-boxes h4:hover {
   color: #000000 !important;
 }
+.blue-boxes a {
+  color: #000000;
+}
 
 @media (max-width: 768px) {
   .blue-boxes h4 {
