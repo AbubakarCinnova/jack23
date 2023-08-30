@@ -1875,10 +1875,10 @@ a:hover {
   background: #cd342c;
 }
 
-.mid_header {
+/* .mid_header {
   padding-top: 20px;
   padding-bottom: 20px;
-}
+} */
 
 .mid_header img {
   margin: 0 auto;
@@ -3194,10 +3194,10 @@ strong {
   left: -7px;
 }
 
-.arrow-dropdown{
+.arrow-dropdown {
   font-size: 24px;
-      line-height: 0;
-      position: relative;
-      top: 7px;
-      left: 2px;
+  line-height: 0;
+  position: relative;
+  top: 7px;
+  left: 2px;
 }
