@@ -213,7 +213,7 @@
 
                 <div class="col-sm-12 text-center">
 
-                    <h2>What Our Customers Are Saying</h2>
+                    <h1>What Our Customers Are Saying</h1>
 
                 </div>
 
