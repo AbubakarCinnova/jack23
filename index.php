@@ -31,6 +31,18 @@
                             width="100%">
                     </a>
                 </div>
+                <div class="item">
+                    <a href="<?php echo $base_url ?>/contact-us.php"> <img
+                            src="<?php echo $base_url; ?>/img/Jacks_2000REBATE1 (2) (1) (1).png" alt="fifth slide"
+                            width="100%">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="<?php echo $base_url ?>/contact-us.php"> <img
+                            src="<?php echo $base_url; ?>/img/Fall_Furnace_TuneUp_1000_350_V2 (1).jpg" alt="sixth slide"
+                            width="100%">
+                    </a>
+                </div>
             </div>
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
